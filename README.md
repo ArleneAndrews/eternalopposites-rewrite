@@ -1,14 +1,15 @@
 # eternalopposites-rewrite
-Wirking on re-doibg the tine-suck that was Eterbal Oppodites.
-Teachibg myself a different language
 
-Pairs I remember ate:
-Love hate
-Life death
-Male Female
-Peace War
-Sunner winter
-Day night
-Good evil
-rich poor
-Spring fall
+Working on re-doing the time-sink that was Eternal Opposites and teaching myself a different language.
+
+Pairs I Remember:
+
+* Love Hate
+* Life Death
+* Male Female
+* Peace War
+* Summer Winter
+* Day Night
+* Good Evil
+* Rich Poor
+* Spring Fall

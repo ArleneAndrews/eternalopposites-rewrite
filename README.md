@@ -1,8 +1,8 @@
 # eternalopposites-rewrite
-Wirking on re-doibg the tine-suck that was Eterbal Oppodites.
-Teachibg myself a different language
+Working on re-doing the time-suck that was Eternal Opposites.
+Teaching myself a different language, as well.
 
-Pairs I remember ate:
+Pairs I remember are:
 Love hate
 Life death
 Male Female
@@ -12,3 +12,4 @@ Day night
 Good evil
 rich poor
 Spring fall
+Yin-Yang (one is always at the apex, on in a random location)

@@ -15,3 +15,5 @@ Spring fall
 Yin-Yang (one is always at the apex, on in a random location)
 
 Update - Thankks to the local library selling off old computers, I now have access to the original files! I will add these as time permits.
+
+there is a db to hold the tiles and their relationships
